@@ -1,3 +1,3 @@
 # Record Labels and Bands Database Application
 
-No extra information.
+Aashish Mehra, Ryan Wall, Trixie Caladon
